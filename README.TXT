@@ -1,3 +1,4 @@
+New project 
 Project: naive-ticket-machine
 Authors: David Barnes and Michael Kölling
 
