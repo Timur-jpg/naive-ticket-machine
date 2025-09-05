@@ -62,6 +62,13 @@ Part 2
               
               Can we know anything for sure about the names of its fields?
  
+ Question 21: public Pet(String petsName)
+              
+              {
+                name=petsName;
+              }
+ 
+ 
  Question 22: 
  
  Question 23:
