@@ -31,6 +31,7 @@ Part 2
  
  Question 6: I think the outer wrappers of the Student and LabClass classes might look like the projecct we did before.
  
- 
-                                                                                                                
+ Question 7: Yes, it does matter because when you change it, it marks the class diagram in red marks. Plus I cannot create a new object and it deletes my previous objects. 
+             When I press the compile button, it redirect me too the source, where there is message on the bottom "Error(s) found in class".
+             I think the message itself doesn't give a lot of information making it hard to know the problem, although the red lines on the left side helps.  
  
