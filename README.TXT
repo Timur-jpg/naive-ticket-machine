@@ -59,22 +59,24 @@ Part 2
 
  Question 20: I don't think the value of the constructor’s parameters will need to be stored somewhere persistent, I think that they are temporary.
               The types some of the Book class’s fields might be are String and double, from the parameters in its constructor
-              
+              ??????????
               
               Can we know anything for sure about the names of its fields?
  
- Question 21: public Pet(String petsName)
+ Question 21: public Pet(String petsName)    
               
               {
                 name=petsName;
               }
  
  
- Question 22: 
+ Question 22: public Date (string month, int day, int year) 
  
- Question 23:
+ Question 23: The one difference between the headers is their names and the one difference between the bodies is the variable their return.   
  
- Question 24:
+ Question 24: How much money is deposited ?
+ 
+ 
  
  
  
