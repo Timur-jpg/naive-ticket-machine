@@ -58,6 +58,10 @@ Part 2
 
  Question 20: 
  
+              Do you think the values of the constructor’s parameters will need to be stored somewhere persistent? 
+              Can you guess what types some of the Book class’s fields might be, from the parameters in its constructor?
+              Can we know anything for sure about the names of its fields?
+ 
  Question 22:
  
  Question 23:
