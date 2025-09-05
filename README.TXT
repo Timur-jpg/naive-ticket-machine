@@ -35,3 +35,9 @@ Part 2
              When I press the compile button, it redirect me too the source, where there is message on the bottom "Error(s) found in class".
              I think the message itself doesn't give a lot of information making it hard to know the problem, although the red lines on the left side helps.  
  
+ Question 10: fields: price, balance, and total
+              constructor: TicketMachine
+              methods: getPrice, getBalance, insertMoney and printTicket
+              
+ Question 11: The constructor has a single formal parameter, cost, but the method has none. The constructor has no return type unlike the method. 
+ 
