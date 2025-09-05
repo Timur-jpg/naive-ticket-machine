@@ -56,13 +56,13 @@ Part 2
  
  Question 19: It has 2 parameters, their types are string and double.
 
- Question 20: 
- 
-              Do you think the values of the constructor’s parameters will need to be stored somewhere persistent? 
-              Can you guess what types some of the Book class’s fields might be, from the parameters in its constructor?
+ Question 20: I don't think the value of the constructor’s parameters will need to be stored somewhere persistent, I think that they are temporary.
+              The types some of the Book class’s fields might be are String and double, from the parameters in its constructor
+              
+              
               Can we know anything for sure about the names of its fields?
  
- Question 22:
+ Question 22: 
  
  Question 23:
  
