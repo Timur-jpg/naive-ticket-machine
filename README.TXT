@@ -45,14 +45,25 @@ Part 2
  
  Question 13: alive, tutor and game
  
- Question 14: 
+ Question 14: Student, server, person and game
  
  Question 15: Yes, the order does matter.
               Yes, it does give me a clue by marking the class diagram in red marks which makes it impossible to compile.
 
  Question 16: Yes, it is always necessary to have a semicolon at the end of a field declaration because otherwise it will mark the class diagram in red marks and make it impossible to compilele.
  
- Question 18: 
+ Question 18: It belongs to student class.
+ 
+ Question 19: It has 2 parameters, their types are string and double.
+
+ Question 20: 
+ 
+ Question 22:
+ 
+ Question 23:
+ 
+ Question 24:
+ 
  
  
  
