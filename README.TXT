@@ -50,4 +50,9 @@ Part 2
  Question 15: Yes, the order does matter.
               Yes, it does give me a clue by marking the class diagram in red marks which makes it impossible to compile.
 
- Question 16:   
+ Question 16: Yes, it is always necessary to have a semicolon at the end of a field declaration because otherwise it will mark the class diagram in red marks and make it impossible to compilele.
+ 
+ Question 18: 
+ 
+ 
+ 
