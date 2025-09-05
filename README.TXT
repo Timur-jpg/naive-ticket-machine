@@ -39,5 +39,11 @@ Part 2
               constructor: TicketMachine
               methods: getPrice, getBalance, insertMoney and printTicket
               
- Question 11: The constructor has a single formal parameter, cost, but the method has none. The constructor has no return type unlike the method. 
+ Question 11: The constructor has a single formal parameter, cost, but the method has none. The constructor has no return type unlike the method.
+ 
+ Question 12: int, Student and Server
+ 
+ Question 13: alive, tutor and game
+ 
+ Question 14:
  
