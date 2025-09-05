@@ -29,11 +29,11 @@ Part 2
                                                                                                                      
  Question 5: Yes it does look different but it's only the price on the ticket that changed, the other tings stayed the same.
  
- Question 6: I think the outer wrappers of the Student and LabClass classes might look like the projecct we did before.
+ Question 6: 
  
  Question 7: Yes, it does matter because when you change it, it marks the class diagram in red marks. Plus I cannot create a new object and it deletes my previous objects. 
-             When I press the compile button, it redirect me too the source, where there is message on the bottom "Error(s) found in class".
-             I think the message itself doesn't give a lot of information making it hard to know the problem, although the red lines on the left side helps.  
+             When I press the compile button, it redirect me too the source, where there is message on the bottom "<identifier> expected".
+             I think the message itself doesn't give me a lot of information making it hard to know the problem.  
  
  Question 10: fields: price, balance, and total
               constructor: TicketMachine
@@ -45,5 +45,9 @@ Part 2
  
  Question 13: alive, tutor and game
  
- Question 14:
+ Question 14: 
  
+ Question 15: Yes, the order does matter.
+              Yes, it does give me a clue by marking the class diagram in red marks which makes it impossible to compile.
+
+ Question 16:   
