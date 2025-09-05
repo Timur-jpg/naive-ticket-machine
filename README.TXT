@@ -29,6 +29,8 @@ Part 2
                                                                                                                      
  Question 5: Yes it does look different but it's only the price on the ticket that changed, the other tings stayed the same.
  
+ Question 6: I think the outer wrappers of the Student and LabClass classes might look like the projecct we did before.
+ 
  
                                                                                                                 
  
