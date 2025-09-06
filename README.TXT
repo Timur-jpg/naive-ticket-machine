@@ -30,7 +30,7 @@ Part 2
                                                                                                                      
  Question 5: Yes it does look different but it's only the price on the ticket that changed, the other tings stayed the same.
  
- Question 6: 
+ Question 6: I think the Student and LabClass classes likely start with class declarations and include some private fields to hold their data.
  
  Question 7: Yes, it does matter because when you change it, it marks the class diagram in red marks. Plus I cannot create a new object and it deletes my previous objects. 
              When I press the compile button, it redirect me too the source, where there is message on the bottom "<identifier> expected".
@@ -59,9 +59,7 @@ Part 2
 
  Question 20: I don't think the value of the constructor’s parameters will need to be stored somewhere persistent, I think that they are temporary.
               The types some of the Book class’s fields might be are String and double, from the parameters in its constructor
-              ??????????
-              
-              Can we know anything for sure about the names of its fields?
+              No we cannot know anything for sure about the names of its fields.
  
  Question 21: public Pet(String petsName)    
               
@@ -133,6 +131,14 @@ public void setAlive(boolean aliveStatus)
 
  Question 40: I think it would be the same because it isn't a variable.
  
- Question 
+ Question 42: The output is different because each machine has its own price.
+ 
+ Question 43: Yes, it prints the same output as the original println statement.
+              %d means “insert the number” and %n means “go to a new line.”
+              
+ Question 44: When I construct a new ticket-machine objects within BlueJ, I won't have to enter a price and all machines have the price fixed at 1000 cents.
+  
+ Question 46: This method doesn't need to take any parameters.
+              The empty method is a mutator.
  
  

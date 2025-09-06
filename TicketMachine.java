@@ -28,7 +28,11 @@ public class TicketMachine
     }
     public void showPrice() 
     {
-        System.out.println("The price of a ticket is " + price + " cents.");
+       System.out.printf("# %d cents.%n", price);
+    }
+    public void empty() 
+    {
+       total = 0;
     }
 
     private int status;
@@ -38,9 +42,9 @@ public class TicketMachine
      * Note that the price must be greater than zero, and there
      * are no checks to ensure this.
      */
-    public TicketMachine(int price)
+    public TicketMachine()
     {
-        price = price;
+        price = 1000;
         balance = 0;
         total = 0;
     }
