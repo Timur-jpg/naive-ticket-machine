@@ -127,7 +127,9 @@ public void setAlive(boolean aliveStatus)
      alive = aliveStatus;
 }
 
- Question 36:  
+ Question 36: The price fiels remains 0
+ 
+ Question
  
  
  
