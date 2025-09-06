@@ -129,7 +129,10 @@ public void setAlive(boolean aliveStatus)
 
  Question 36: The price fiels remains 0
  
- Question
+ Question 39: I think # price cents. would be printed. 
+
+ Question 40: I think it would be the same because it isn't a variable.
  
+ Question 
  
  

@@ -22,7 +22,15 @@ public class TicketMachine
     {
         return price;
     }    
-    
+    public void prompt() 
+    {
+        System.out.println("Please insert the correct amount of money.");
+    }
+    public void showPrice() 
+    {
+        System.out.println("The price of a ticket is " + price + " cents.");
+    }
+
     private int status;
 
     /**
