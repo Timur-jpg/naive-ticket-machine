@@ -98,5 +98,6 @@ public void increaseScore(int points)
 }
  
  Question 32: Yes, the addCredits method is a mutator.
-              I could demonstrate it by 
+              I could demonstrate it by creating a Student object, checking its credits, then calling addCredits with some points, and checking the credits again to see that the value has increased. 
  
+ Question 33:
