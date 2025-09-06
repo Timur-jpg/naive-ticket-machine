@@ -83,8 +83,10 @@ Part 2
  
  Question 28: Apart from their names, the main difference between them are there return type.  
  
- Question 29: 
- 
+ Question 29: No, the insertMoney and printTicket methods don't have return statements.
+              I think this might be because they both got a void return type.
+
+ Question 
  
  
  
