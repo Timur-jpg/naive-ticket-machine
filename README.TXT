@@ -74,9 +74,16 @@ Part 2
  
  Question 23: The one difference between the headers is their names and the one difference between the bodies is the variable their return.   
  
- Question 24: How much money is deposited ?
+ Question 24: I would characterize it as “How much money is in the account?”
  
+ Question 25: No, the return statement in the body of the method doesn't need to be changed for the code to compile.
+              This tell me that the name of an accessor method and the name of the field associated with it can be different. 
  
+ Question 27: When I try compiling the class, the error message that I see now is "not a statement"
+ 
+ Question 28: Apart from their names, the main difference between them are there return type.  
+ 
+ Question 29: 
  
  
  

@@ -18,6 +18,11 @@ public class TicketMachine
     // The total amount of money collected by this machine.
     private int total;
     
+    public int getTotal()
+    {
+        return price;
+    }    
+    
     private int status;
 
     /**
