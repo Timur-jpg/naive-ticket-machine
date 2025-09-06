@@ -86,7 +86,17 @@ Part 2
  Question 29: No, the insertMoney and printTicket methods don't have return statements.
               I think this might be because they both got a void return type.
 
- Question 
+ Question 31: 
+
+/**
+* Increase score by the given number of points.
+*/
+
+public void increaseScore(int points)
+{
+    score = score + points;
+}
  
- 
+ Question 32: Yes, the addCredits method is a mutator.
+              I could demonstrate it by 
  
