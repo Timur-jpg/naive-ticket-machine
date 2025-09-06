@@ -100,4 +100,34 @@ public void increaseScore(int points)
  Question 32: Yes, the addCredits method is a mutator.
               I could demonstrate it by creating a Student object, checking its credits, then calling addCredits with some points, and checking the credits again to see that the value has increased. 
  
- Question 33:
+ Question 33: 
+ 
+ Complete the following method, whose purpose is to subtract the value of its parameter from a field
+named price.
+/**
+* Reduce price by the given amount.
+*/
+
+public void discount(int amount)
+{
+    price = price - amount;
+}
+ 
+ Question 34: 
+ 
+public void setAge(int currentAge)
+{
+    age = currentAge;
+}
+
+ Question 35: 
+ 
+public void setAlive(boolean aliveStatus)
+{
+     alive = aliveStatus;
+}
+
+ Question 36:  
+ 
+ 
+ 
